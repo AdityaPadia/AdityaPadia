@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AdityaPadia
-- 👀 I’m interested in Maching Learning, App and Web Development
-- 🌱 I’m currently learning ReactNative
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Maching Learning, Software Engineering and Development
 - 📫 How to reach me email : aditya.padia0911@gmail.com
 
 <!---
