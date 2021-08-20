@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaPadia
-- 👀 I’m interested in Maching Learning, Software Engineering and Development
+- 👀 I’m interested in Maching Learning & Software Engineering
 - 📫 How to reach me email : aditya.padia0911@gmail.com
 
 <!---
