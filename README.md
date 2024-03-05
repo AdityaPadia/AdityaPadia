@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaPadia
-- 👀 I’m interested in Machine Learning and Blockchain
+- 👀 I make cool shit
 - 📫 My email : aditya.padia0911@gmail.com
 
 <!---
