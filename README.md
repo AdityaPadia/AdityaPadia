@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaPadia
-- 👀 I make cool shit
+- 👀 I like writing code
 - 📫 My email : aditya.padia0911@gmail.com
 
 <!---
